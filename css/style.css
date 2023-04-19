@@ -56,10 +56,8 @@
   font-size: 16px;
   font-family: "Roboto";
   font-weight: 500;
-  font-style: normal;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: none;
   text-transform: none;
 }
 .button-text {
@@ -93,11 +91,11 @@
   text-transform: none;
 }
 .header-logo-link {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
   /* identical to box height, or 117% */
 
   display: flex;
@@ -110,11 +108,11 @@
   width: 71px;
   height: 21px;
 
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -127,11 +125,11 @@
 .studio-logo-footer {
   width: 71px;
   height: 21px;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
   /* identical to box height, or 117% */
   display: flex;
   align-items: center;
@@ -171,7 +169,7 @@
   color: var(--color-navy-blue);
 }
 
-.link {
+.list {
   list-style: none;
 }
 
@@ -220,5 +218,10 @@
 }
 
 .body {
-  background: #e5e5e5;
+  font-family: "Roboto", sans-serif;
+  background: #ffffff;
+  color: #434455;
+}
+.link {
+  text-decoration: none;
 }
