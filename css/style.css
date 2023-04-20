@@ -259,13 +259,22 @@
 .medium-color {
   color: var(--color-grey);
 }
-.body-medium:hover:focus {
+.body-medium:focus {
   color: var(--color-ocean);
 }
-.text-body:hover:focus {
+.body-medium:hover {
+  color: var(--color-ocean);
+}
+.text-body:hover {
+  background-color: var(--color-ocean);
+}
+.text-body:focus {
   background-color: var(--color-ocean);
 }
 
-.button-f:hover:focus {
+.button-f:hover {
+  color: var(--color-ocean);
+}
+.button-f:focus {
   color: var(--color-ocean);
 }
