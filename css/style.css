@@ -318,3 +318,9 @@
 .sect-color {
   color: var(--color-cloud);
 }
+.color-a:hover {
+  color: var(--color-ocean);
+}
+.color-a:focus {
+  color: var(--color-ocean);
+}
