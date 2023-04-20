@@ -61,6 +61,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-transform: none;
+  color: var(--color-navy-blue);
 }
 .button-text {
   font-size: 16px;
