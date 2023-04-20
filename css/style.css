@@ -265,7 +265,7 @@
 }
 .text-body:hover,
 :focus {
-  color: var(--color-ocean);
+  background-color: var(--color-ocean);
 }
 
 .button-f:hover,
