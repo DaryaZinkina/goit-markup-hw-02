@@ -189,7 +189,7 @@
 }
 
 .light-bg {
-  background-color: var(--color-white);
+  background-color: var(--color-cloud);
 }
 
 .img-t {
@@ -274,10 +274,10 @@
 }
 
 .button-f:hover {
-  color: var(--color-ocean);
+  background-color: var(--color-ocean);
 }
 .button-f:focus {
-  color: var(--color-ocean);
+  background-color: var(--color-ocean);
 }
 .button-all:hover {
   color: var(--color-white);
@@ -289,7 +289,7 @@
 }
 
 .text-port {
-  font-size: 16px;
+  font-size: 20px;
 
   font-weight: 500;
   font-style: normal;
@@ -305,4 +305,16 @@
   letter-spacing: 0.02em;
   color: var(--color-slate);
   text-transform: none;
+}
+.body-medium:focus {
+  color: var(--color-ocean);
+}
+.body-medium:focus {
+  color: var(--color-ocean);
+}
+.section {
+  list-style: none;
+}
+.sect-color {
+  color: var(--color-cloud);
 }
