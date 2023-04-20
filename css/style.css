@@ -162,6 +162,7 @@
 }
 
 .button-f {
+  cursor: pointer;
   background: var(--color-iris);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -188,11 +189,11 @@
 }
 
 .light-bg {
-  background: var(--color-cloud);
+  background-color: var(--color-white);
 }
 
 .img-t {
-  background: var(--color-white);
+  background-color: var(--color-white);
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
@@ -253,4 +254,21 @@
 
 .color-our-team {
   background-color: var(--color-white);
+}
+
+.medium-color {
+  color: var(--color-grey);
+}
+.body-medium:hover,
+:focus {
+  color: var(--color-ocean);
+}
+.text-body:hover,
+:focus {
+  color: var(--color-ocean);
+}
+
+.button-f:hover,
+:focus {
+  color: var(--color-ocean);
 }
