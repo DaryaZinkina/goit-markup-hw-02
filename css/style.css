@@ -94,6 +94,18 @@
   text-transform: none;
   color: var(--color-navy-blue);
 }
+
+.text-style-m {
+  font-size: 36px;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  text-transform: capitalize;
+}
 .header-logo-link {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -107,6 +119,16 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-iris);
+}
+.text-style-s {
+  font-size: 20px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  text-transform: none;
 }
 .studio-logo {
   width: 71px;
