@@ -146,19 +146,10 @@
 }
 
 .dark-bg {
-  width: 1440px;
-  height: 600px;
-  left: 0px;
-  top: 72px;
   background: var(--color-navy-blue);
 }
 
 .effect {
-  position: absolute;
-  width: 496px;
-  height: 120px;
-  left: 472px;
-  top: 260px;
   color: var(--color-white);
 }
 
