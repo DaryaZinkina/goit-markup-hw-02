@@ -12,7 +12,7 @@
   --color-white: #ffffff;
   --color-dairy: #fcfcfc;
 }
-.text-style-h1 {
+.text-style-sec1 {
   font-size: 56px;
   font-family: "Roboto";
   font-weight: 700;
@@ -23,7 +23,7 @@
   text-transform: none;
   text-align: center;
 }
-.text-style-h2 {
+.text-style-sec2 {
   font-size: 36px;
   font-family: "Roboto";
   font-weight: 700;
@@ -239,7 +239,7 @@
 }
 
 .color-a {
-  color: var(--color-slate);
+  color: var(--color-navy-blue);
 }
 
 .color-h2 {
