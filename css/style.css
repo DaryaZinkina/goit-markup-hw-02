@@ -110,6 +110,7 @@
 .text-style-mm {
   font-size: 36px;
   color: var(--color-grey);
+  background-color: #ffffff;
   font-family: "Roboto";
   font-weight: 700;
   font-style: normal;
