@@ -12,7 +12,7 @@
   --color-white: #ffffff;
   --color-dairy: #fcfcfc;
 }
-.text-style-sec1 {
+.text-style-big {
   font-size: 56px;
   font-family: "Roboto";
   font-weight: 700;
@@ -23,7 +23,7 @@
   text-transform: none;
   text-align: center;
 }
-.text-style-sec2 {
+.text-style-medium {
   font-size: 36px;
   font-family: "Roboto";
   font-weight: 700;
@@ -34,7 +34,7 @@
   text-decoration: none;
   text-transform: capitalize;
 }
-.text-style-h3 {
+.text-style-small {
   font-size: 20px;
   font-family: "Roboto";
   font-weight: 500;
