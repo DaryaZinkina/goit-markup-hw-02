@@ -305,7 +305,7 @@
 .body-medium:focus {
   color: var(--color-ocean);
 }
-.section {
+.sect-all {
   list-style: none;
 }
 .sect-color {
