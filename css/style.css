@@ -106,6 +106,19 @@
   text-decoration: none;
   text-transform: capitalize;
 }
+
+.text-style-mm {
+  font-size: 36px;
+  color: var(--color-grey);
+  font-family: "Roboto";
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  text-transform: capitalize;
+}
 .header-logo-link {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -125,6 +138,8 @@
   font-family: "Roboto";
   font-weight: 500;
   font-style: normal;
+  color: var(--color-grey);
+  background-color: #ffffff;
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-decoration: none;
